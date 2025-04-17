@@ -1,1 +1,0 @@
-#This is registeration page
