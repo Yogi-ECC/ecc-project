@@ -1,2 +1,3 @@
-#This is registeration page
+#This is registeration page 
+#Added more funcionality
 console.log("Register feature");
